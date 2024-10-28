@@ -1,12 +1,6 @@
 # 💻 Machine Learning Practice
 Practice making machine learning models and implementing them.
 
-## Libraries
-- Numpy
-- Pandas
-- MatPlotLib
-- Scikit-Learn
-
 ## Technologies
 - Pandas
    - Used for Data Manipulation
